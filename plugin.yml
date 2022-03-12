@@ -1,0 +1,7 @@
+name: ValientReport
+author: Gnaris
+version: 1.0
+main: fr.gnaris.main.Main
+commands:
+  report:
+  vr:

@@ -1,0 +1,10 @@
+############################# ADMIN PROFILE
+
+administrator:
+  Pseudo_Vide_Ne_Pas_Supprimer:
+    UUID: "123456789"
+
+############################ CONFIGURATION AMOUNT
+
+number_char_min_for_send_report: 5
+cooldown_of_report: 5
